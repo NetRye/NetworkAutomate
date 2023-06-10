@@ -1,6 +1,3 @@
-# NetworkAutomate
-A Script to Automate Change Management of Network Devices such as Routers and Switches
-
 # Network Device Configuration Script
 
 This Python script is designed to automate the configuration of network devices, specifically Cisco IOS devices, using the Netmiko library and a provided Excel file containing the device IP addresses and corresponding configuration commands.
