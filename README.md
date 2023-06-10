@@ -1,5 +1,5 @@
 # NetworkAutomate
-A Script to Automate the Change Management of Network Devices such as Cisco Router and Switches
+A Script to Automate Change Management of Network Devices such as Routers and Switches
 
 # Network Device Configuration Script
 
