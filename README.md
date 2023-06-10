@@ -60,4 +60,4 @@ Feel free to modify this example file or create your own Excel file following th
 
 ## Conclusion
 
-This network device configuration script automates the process of configuring Cisco
+This network device configuration script automates the process of configuring Cisco Routers and Switches although it can be easily used for any vendor. 
