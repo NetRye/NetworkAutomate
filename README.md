@@ -54,7 +54,7 @@ Please use this script responsibly and ensure that you have appropriate permissi
 
 ## Example Excel File
 
-To help you get started, an example Excel file named "devices.xlsx" is included in the repository. It demonstrates the required format for the Excel file, with the first column containing the IP addresses of the network devices and subsequent columns containing the configuration commands.
+To help you get started, an example Excel file named "devices-config-Example.xlsx" is included in the repository. It demonstrates the required format for the Excel file, with the first column containing the IP addresses of the network devices and subsequent columns containing the configuration commands.
 
 Feel free to modify this example file or create your own Excel file following the same format to suit your network devices and configuration requirements.
 
